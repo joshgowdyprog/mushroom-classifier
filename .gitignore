@@ -12,6 +12,9 @@
 # DotEnv configuration
 .env
 
+# pyenv local environment
+.python-version
+
 # vimf files
 *.swp
 *.swo
@@ -25,4 +28,3 @@
 
 # VS Code
 .vscode/
-
